@@ -1,0 +1,34 @@
+{
+  "background": {
+    "value": "#ffffff",
+    "type": "color"
+  },
+  "contents": {
+    "contentPrimary": {
+      "value": "#000000",
+      "type": "color"
+    },
+    "contentSecondary": {
+      "value": "#6b6b6b",
+      "type": "color"
+    },
+    "contentTertiary": {
+      "value": "#a6a6a6",
+      "type": "color"
+    }
+  },
+  "border": {
+    "borderMain": {
+      "value": "#898989",
+      "type": "color"
+    },
+    "borderSub": {
+      "value": "#8989894d",
+      "type": "color"
+    }
+  },
+  "backgroundSub": {
+    "value": "#F0F0F0",
+    "type": "color"
+  }
+}

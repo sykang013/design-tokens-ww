@@ -1,0 +1,30 @@
+{
+  "background": {
+    "value": "#000000",
+    "type": "color"
+  },
+  "contents": {
+    "contentPrimary": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "contentSecondary": {
+      "value": "#a6a6a6",
+      "type": "color"
+    },
+    "contentTertiary": {
+      "value": "#898989",
+      "type": "color"
+    }
+  },
+  "border": {
+    "borderMain": {
+      "value": "#c4c4c4",
+      "type": "color"
+    },
+    "borderSub": {
+      "value": "#8989894d",
+      "type": "color"
+    }
+  }
+}
